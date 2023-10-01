@@ -19,9 +19,9 @@ This project was crafted to provide an in-depth understanding of each data scien
 
 ## Datasets
 Three distinct datasets from Kaggle and PapersWithCode are used. Links and brief descriptions are provided below:
-1. **Dataset for CRISP-DM**: [Link](#https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-2. **Dataset for KDD**: [Link](#https://www.kaggle.com/datasets/rajyellow46/wine-quality)
-3. **Dataset for SEMMA**: [Link](#https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
+1. **Dataset for CRISP-DM**: [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+2. **Dataset for KDD**: [Link](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+3. **Dataset for SEMMA**: [Link](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
 
 ## Methodologies
 ### CRISP-DM
@@ -35,13 +35,13 @@ Incorporates the stages: Sample, Explore, Modify, Model, and Assess. The SEMMA s
 
 ## Medium Articles
 For each methodology, a detailed article has been crafted providing insights, challenges, and learnings. Links to the articles:
-1. [CRISP-DM Article](#https://medium.com/@atharvajadhav/crisp-dm-a-practical-guide-to-predicting-house-prices-with-python-6b7b3e32d39c)
-2. [KDD Article](#https://medium.com/@atharvajadhav/predicting-wine-quality-with-the-kdd-process-and-python-2c57f3bd91f8)
-3. [SEMMA Article](#https://medium.com/@atharvajadhav/understanding-heart-disease-with-semma-and-python-7cac6ddbf6b9)
+1. [CRISP-DM Article](https://medium.com/@atharvajadhav/crisp-dm-a-practical-guide-to-predicting-house-prices-with-python-6b7b3e32d39c)
+2. [KDD Article](https://medium.com/@atharvajadhav/predicting-wine-quality-with-the-kdd-process-and-python-2c57f3bd91f8)
+3. [SEMMA Article](https://medium.com/@atharvajadhav/understanding-heart-disease-with-semma-and-python-7cac6ddbf6b9)
 
 ## Research Paper
 The cumulative insights from the methodologies and articles have been compiled into a research paper. This paper is written using LaTeX and has been submitted to arXiv. 
-- [Link to the Research Paper (PDF)](#https://github.com/AtharvaJadhav/DataMiningAssignment-CRISPDM-SEMMA-KDD/blob/main/DataMiningAssignment_CRISPDM_KDD_SEMMA.pdf)
+- [Link to the Research Paper (PDF)](https://github.com/AtharvaJadhav/DataMiningAssignment-CRISPDM-SEMMA-KDD/blob/main/DataMiningAssignment_CRISPDM_KDD_SEMMA.pdf)
 
 ## Getting Started
 To replicate this project or understand the methodologies in-depth:
