@@ -19,9 +19,9 @@ This project was crafted to provide an in-depth understanding of each data scien
 
 ## Datasets
 Three distinct datasets from Kaggle and PapersWithCode are used. Links and brief descriptions are provided below:
-1. **Dataset for CRISP-DM**: [Link](#https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
-2. **Dataset for KDD**: [Link](#https://www.kaggle.com/datasets/rajyellow46/wine-quality).
-3. **Dataset for SEMMA**: [Link](#https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci).
+1. **Dataset for CRISP-DM**: [Link](#https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+2. **Dataset for KDD**: [Link](#https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+3. **Dataset for SEMMA**: [Link](#https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
 
 ## Methodologies
 ### CRISP-DM
@@ -41,7 +41,7 @@ For each methodology, a detailed article has been crafted providing insights, ch
 
 ## Research Paper
 The cumulative insights from the methodologies and articles have been compiled into a research paper. This paper is written using LaTeX and has been submitted to arXiv. 
-- [Link to the Research Paper (PDF)](#)
+- [Link to the Research Paper (PDF)](#https://github.com/AtharvaJadhav/DataMiningAssignment-CRISPDM-SEMMA-KDD/blob/main/DataMiningAssignment_CRISPDM_KDD_SEMMA.pdf)
 
 ## Getting Started
 To replicate this project or understand the methodologies in-depth:
